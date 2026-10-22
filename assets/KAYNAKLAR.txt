@@ -1,0 +1,26 @@
+LOGO
+Kullanıcı tarafından verilen: WhatsApp Image 2026-10-21 at 17.05.38 (1).jpeg
+Görsel yeniden çizilmedi. Koyu zemin üzerinde CSS ile gösterilir.
+
+STOK FOTOĞRAFLAR (TEMSiLi)
+salon.jpg: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0
+hali.jpg: https://images.unsplash.com/photo-1600166898405-da9535204843
+koltuk.jpg: https://images.unsplash.com/photo-1555041469-a586c61ea9bc
+yorgan.jpg: https://images.unsplash.com/photo-1631049307264-da0ec9d70304
+yatak.jpg: https://images.unsplash.com/photo-1505693416388-ac5ce068fe85
+perde.jpg: Maria Orlova / Pexels
+https://www.pexels.com/photo/white-curtains-on-a-window-4946930/
+https://images.pexels.com/photos/4946930/pexels-photo-4946930.jpeg
+Unsplash lisansı: https://unsplash.com/license
+Pexels lisansı: https://www.pexels.com/license/
+
+YAZI TİPİ
+Manrope — Google Fonts / SIL Open Font License.
+https://fonts.google.com/specimen/Manrope
+https://github.com/sharanda/manrope
+Font dosyaları yerelde barındırılır; Google Fonts bağlantısı çalışma zamanında yapılmaz.
+
+İNCELENEN REFERANSLAR
+https://sevilayhaliyikama.com.tr/
+https://www.mihogluhaliyikama.com/
+Referans sitelerin metinleri, firma iddiaları veya görselleri kopyalanmamıştır.

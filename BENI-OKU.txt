@@ -1,0 +1,68 @@
+GÜLSEN HALI YIKAMA — WEB SİTESİ
+
+BAŞLATMA
+index.html dosyasını çift tıklayarak tarayıcıda açabilirsiniz.
+Site HTML, CSS ve JavaScript ile hazırlandı; kurulum veya paket indirme gerektirmez.
+Yerel HTTP önizleme için Node.js kurulu bilgisayarda:
+  npm start
+Ardından http://localhost:4173 adresini açın. Kapatmak için Ctrl+C.
+
+SAYFALAR
+Ana sayfa: index.html
+Hizmet listesi: hizmetler.html
+Hakkımızda: hakkimizda.html
+İletişim: iletisim.html
+Gizlilik ve iletişim: gizlilik.html
+Hizmet detayları:
+  hizmetler/hali-yikama.html
+  hizmetler/koltuk-yikama.html
+  hizmetler/yorgan-battaniye-yikama.html
+  hizmetler/perde-stor-perde-yikama.html
+  hizmetler/yatak-yikama.html
+
+İÇERİK DÜZENLEME
+Tüm sayfa içerikleri ve ortak bölümler scripts/build.mjs dosyasından oluşturulur.
+İçeriği burada düzenledikten sonra npm run build komutunu çalıştırın.
+Tasarım: assets/style.css
+Menü, SSS ve mesaj oluşturucu: assets/site.js
+Kontrol: npm run check
+
+WHATSAPP FORMU
+Form bir sunucuya bilgi kaydetmez. Ziyaretçi bilgilerini doldurur, mesajı hazırlar,
+WhatsApp'ta açar ve kendisi gönderir. Telefon: +90 506 679 24 71.
+
+HOSTING'E YÜKLEME
+Kök dizindeki .html dosyalarını, robots.txt dosyasını, assets ve hizmetler
+klasörlerini birlikte hosting'in web köküne (genellikle public_html) yükleyin.
+scripts, package.json ve orijinal WhatsApp görsellerinin yüklenmesi gerekmez.
+Siteyi alt klasörde barındırmak da mümkündür; yerel bağlantılar görecelidir.
+404.html dosyasını kullanmak için hosting'in özel 404 ayarını yapılandırın.
+
+ALAN ADI VE SEO
+Alan adı verilmediğinden gerçekte var olmayan bir alan adı eklenmedi.
+Sayfalarda özgün başlıklar, açıklamalar, Türkçe dil bilgisi ve LocalBusiness /
+Service yapısal verileri bulunur. Canonical adresler ve sitemap.xml gerçek alan
+adınız belli olduktan sonra üretilir. PowerShell örneği:
+  $env:SITE_URL='https://gercek-alan-adiniz.com/'
+  npm run build
+  npm run check
+  Remove-Item Env:SITE_URL
+Bu komutlardan sonra üretilen sitemap.xml ve robots.txt dahil siteyi yükleyin.
+SSL ve alan adı bağlantısı hosting üzerinden yapılır. Bu teslim yereldir;
+internet üzerinde yayın veya alan adı kaydı yapılmamıştır.
+
+İÇERİK VE GÖRSELLER
+Firma adı, telefon, hizmet listesi ve Google Haritalar yerleştirmesi sağlanan
+bilgilere dayanır. Doğrulanmamış müşteri yorumu, tecrübe yılı, belge, sabit fiyat,
+teslim süresi veya başarı oranı eklenmemiştir. Açık adres ve çalışma saatleri
+sağlanmadığından uydurulmamıştır.
+Görseller temsili stok fotoğraflardır; işletmenin tesis veya çalışmalarını
+gösterdikleri iddia edilmez. Görsel kaynakları assets/KAYNAKLAR.txt içindedir.
+Mevcut iki orijinal logo dosyanız klasörde korunmuştur. Sitede telefon içermeyen,
+fuşya-mavi logonuz kullanılır; ekrandaki tüm numaralar verdiğiniz güncel numaradır.
+
+YAPI
+Modern, bölümler halinde akan ana sayfa + bağımsız, içerikleri HTML içinde yer alan
+beş hizmet detay sayfası ile hibrit yapı kurulmuştur. Sayfalar JavaScript kapalı
+olsa da okunabilir; menünün mobil açılması ve mesaj formu JavaScript gerektirir.
+Yazı tipi ve fotoğraflar yereldir. Google Haritalar ve WhatsApp internet gerektirir.

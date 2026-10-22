@@ -1,0 +1,12 @@
+{
+  "name": "gulsen-hali-yikama",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gülsen Halı Yıkama — çok sayfalı tanıtım sitesi",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
