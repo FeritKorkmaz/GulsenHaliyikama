@@ -3,7 +3,6 @@ Kullanıcı tarafından verilen: WhatsApp Image 2026-10-21 at 17.05.38 (1).jpeg
 Görsel yeniden çizilmedi. Koyu zemin üzerinde CSS ile gösterilir.
 
 STOK FOTOĞRAFLAR (TEMSiLi)
-salon.jpg: https://images.unsplash.com/photo-1600210492486-724fe5c67fb0
 hali.jpg: https://images.unsplash.com/photo-1600166898405-da9535204843
 koltuk.jpg: https://images.unsplash.com/photo-1555041469-a586c61ea9bc
 yorgan.jpg: https://images.unsplash.com/photo-1631049307264-da0ec9d70304
