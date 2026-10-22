@@ -24,3 +24,9 @@ Font dosyaları yerelde barındırılır; Google Fonts bağlantısı çalışma 
 https://sevilayhaliyikama.com.tr/
 https://www.mihogluhaliyikama.com/
 Referans sitelerin metinleri, firma iddiaları veya görselleri kopyalanmamıştır.
+
+YAPAY ZEKÂ İLE HAZIRLANAN ANA GÖRSEL
+otomatik-hali-yikama.jpg: OpenAI yerleşik Imagegen aracıyla bu site için üretildi.
+Konu: Bantlı otomatik halı yıkama makinesi, desenli halı, su ve kontrollü köpük;
+fotogerçekçi, lacivert-fuşya detaylar, yazısız ve logosuz kare kompozisyon.
+İşletmenin gerçek tesisi veya ekipmanının fotoğrafı değildir; temsili görseldir.

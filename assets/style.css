@@ -9,3 +9,9 @@
 
 
 .hero-grid>*,.service-hero-grid>*,.contact-grid>*,.form-row>*{min-width:0}
+
+/* Carpet washing is the primary message; keep the full automatic machine visible. */
+.hero h1{font-size:clamp(46px,4.55vw,68px);line-height:1.1}.hero-photo{object-position:50% 35%}.hero-copy>p{max-width:440px}
+@media(max-width:1150px){.hero h1{font-size:55px}}
+@media(max-width:900px) and (min-width:761px){.hero h1{font-size:46px}}
+@media(max-width:760px){.hero h1{font-size:clamp(35px,8.8vw,58px)}.hero-photo{object-position:50% 35%}}

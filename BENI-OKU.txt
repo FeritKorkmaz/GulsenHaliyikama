@@ -56,7 +56,8 @@ Firma adı, telefon, hizmet listesi ve Google Haritalar yerleştirmesi sağlanan
 bilgilere dayanır. Doğrulanmamış müşteri yorumu, tecrübe yılı, belge, sabit fiyat,
 teslim süresi veya başarı oranı eklenmemiştir. Açık adres ve çalışma saatleri
 sağlanmadığından uydurulmamıştır.
-Görseller temsili stok fotoğraflardır; işletmenin tesis veya çalışmalarını
+Ana görsel yapay zekâyla hazırlanmış temsili bir otomatik halı yıkama görselidir.
+Diğer görseller temsili stok fotoğraflardır; işletmenin tesis veya çalışmalarını
 gösterdikleri iddia edilmez. Görsel kaynakları assets/KAYNAKLAR.txt içindedir.
 Mevcut iki orijinal logo dosyanız klasörde korunmuştur. Sitede telefon içermeyen,
 fuşya-mavi logonuz kullanılır; ekrandaki tüm numaralar verdiğiniz güncel numaradır.
